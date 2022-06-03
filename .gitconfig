@@ -1,0 +1,5 @@
+[pull]
+	rebase = true
+[user]
+	name = megis
+	email = atanmegis.cn@gmail.com
